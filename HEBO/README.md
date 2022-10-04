@@ -18,6 +18,8 @@ Summary             |  Ablation
 
 ```bash
 python setup.py develop
+
+Gan2022:  python setup.py build_ext --inplace
 ```
 
 ## Demo
